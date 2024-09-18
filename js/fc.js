@@ -4,3 +4,7 @@ function hello(){
     confirm("Enter your number");
 }
 hello()
+let hell=()=>{
+    console.log("Hello, World!");
+}
+hell()
